@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tunahfishy
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning software development and c++
-- 💞️ I’m looking to collaborate on personal projects
+- 👀 I’m a software engineer
 - 📫 LinkedIn: https://www.linkedin.com/in/tinahhong/
 
 <!---
