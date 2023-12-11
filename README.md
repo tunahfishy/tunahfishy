@@ -1,6 +1,8 @@
-🐟 A fish 
+🐟🏀 A fish 
 
-prev @ Stripe and Microsoft
+prev CS @ MIT
+
+Stripe and Microsoft
 
 Neo Scholar and former Prod Admin
 <!---
