@@ -1,8 +1,12 @@
 🐟🏀 a fish
 
-currently building living interfaces at coframe.ai as employee #1
+i am a fish
+fish fish fish 
 
-previously cs @ mit, stripe & microsoft
+fish
+
+fish
+previously cs @ mit, stripe & microsoft, first hire at coframe
 
 neo scholar and former prod admin
 <!---
